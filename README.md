@@ -1,4 +1,4 @@
-Hello, I am [Harsh Indoria](github.com/Indoriajs).
+Hello, I am [Harsh Indoria](https://github.com/Indoriajs).
 
 I love to code because I like torturing myself.
 
@@ -30,7 +30,7 @@ My skills set include:
 
 ##### You can follow me on:
 ![Indoriajs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [***Harsh Indoria***](https://www.linkedin.com/in/indoriajs/) <br>
-![Indoriajs](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [***Indoriajs***](github.com/Indoriajs) <br>
+![Indoriajs](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [***Indoriajs***](https://github.com/Indoriajs) <br>
 
 
 
@@ -39,4 +39,4 @@ My skills set include:
 
 
 ##### <b>Website</b> (Work in Progress):
-[***My Website***](habbaserver.me)
+[***My Website***](http://habbaserver.me)
