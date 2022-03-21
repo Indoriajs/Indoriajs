@@ -1,6 +1,6 @@
 Hello, I am [Harsh Indoria](https://github.com/Indoriajs).
 
-I love to code because I like torturing myself.
+I love to code because I like being tortured
 
 Jokes aside,
 
