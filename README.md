@@ -1,13 +1,13 @@
 Hello, I am [Harsh Indoria](https://github.com/Indoriajs).
 
-I love to code because I like being tortured
+I love to code because I like being tortured.
 
 Jokes aside,
 
 I am an aspiring Computer Scientist who loves to learn everyday. 
 I am currently pursuing a triple major Bachelor's degree in Physics, Mathematics and Computer Science.
 
-I am currently open to commisions, you can contact me using the details provided below.
+I am open to commisions, you can contact me using the details provided below.
 
 My skills set include:
 
