@@ -43,4 +43,4 @@ My skills set include:
 
 
 ##### <b>Resume</b>:
-[Harsh Indoria]()
+[Harsh Indoria](https://github.com/Indoriajs/Indoriajs/blob/main/Harsh%20Indoria%20-%20R1.pdf)
