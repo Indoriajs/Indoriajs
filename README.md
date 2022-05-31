@@ -40,3 +40,7 @@ My skills set include:
 
 ##### <b>Website</b> (Work in Progress):
 [***My Website***](http://habbaserver.me)
+
+
+##### <b>Resume</b>:
+[Harsh Indoria]()
